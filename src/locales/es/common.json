@@ -1,0 +1,32 @@
+{
+  "navbar": {
+    "tagline": "La Oficina Legal de",
+    "name": "John P. Sherman",
+    "phone": "(786)-602-3672",
+    "cta": "Consulta Gratis"
+  },
+  "links": {
+    "isThisYou": "¿Es Usted?",
+    "practiceAreas": "Áreas de Práctica",
+    "reviews": "Testimonios",
+    "faq": "Preguntas Frecuentes",
+    "familyLaw": "Derecho Familiar",
+    "personalInjury": "Lesiones Personales",
+    "about": "Nosotros",
+    "contact": "Contacto",
+    "disclaimer": "Aviso Legal",
+    "privacyPolicy": "Política de Privacidad",
+    "termsOfService": "Términos de Servicio"
+  },
+  "social": {
+    "facebook": "Facebook",
+    "linkedin": "LinkedIn",
+    "twitter": "Twitter"
+  },
+  "footer": {
+    "address": "250 Catalonia Ave # 606",
+    "city": "Coral Gables, FL 33134",
+    "email": "contact@shermanlaw.com",
+    "copyright": "©2024 La Oficina Legal de John P. Sherman, PLLC. Todos los Derechos Reservados."
+  }
+}

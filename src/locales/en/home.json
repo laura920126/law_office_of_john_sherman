@@ -1,0 +1,168 @@
+{
+  "hero": {
+    "badge": "Free consultations",
+    "headline": "I'm John Sherman,",
+    "subheadline": "your Family Law and Personal Injury Attorney.",
+    "description": "Navigating the legal system shouldn't add to your trauma. I provide clear, empathetic, and strategic guidance to help you protect what matters most when life takes an unexpected turn.",
+    "cta1": "Book a free consultation",
+    "cta2": "Is this the right fit?"
+  },
+  "painPoints": {
+    "title": "Are we the right fit?",
+    "subtitle": "You don't need legal jargon; you need solutions. If you are facing any of these situations, my firm is designed to help you.",
+    "items": [
+      {
+        "title": "Served with Papers?",
+        "description": "Receiving divorce or custody papers is overwhelming. We act fast to file necessary responses and protect your rights immediately."
+      },
+      {
+        "title": "Custody Disputes",
+        "description": "When your time with your children is threatened, we build a compelling case to ensure a fair and stable parenting plan."
+      },
+      {
+        "title": "Accident Injury",
+        "description": "Injured due to negligence? We handle the insurance companies so you can focus on recovery, fighting for maximum compensation."
+      },
+      {
+        "title": "Asset Protection",
+        "description": "Protecting your hard-earned assets during complex division of property or prenuptial agreement drafting."
+      }
+    ]
+  },
+  "reviews": {
+    "title": "Client Success Stories",
+    "items": [
+      {
+        "initials": "MS",
+        "name": "Mike S.",
+        "caseType": "Injunction Dismissal",
+        "quote": "Mr. Sherman and Mr. Pertierra helped me get a bogus 5-year domestic violence injunction against me completely dismissed. Despite the odds being against me, they believed in my case, filed a motion for reconsideration, won it, and then retried my case and got it completely dismissed. I'm very happy with their services. You won't be disappointed.",
+        "rating": 5,
+        "date": "3 months ago"
+      },
+      {
+        "initials": "DM",
+        "name": "Don M.",
+        "caseType": "False Accusations Defense",
+        "quote": "John Sherman is an exceptional attorney who truly goes the extra mile. He kept me informed, worked tirelessly on my case, and even traveled from Miami to Clewiston, FL to defend me against false accusations. His expertise and dedication led to a well-earned victory. He also made legal representation accessible with a flexible payment plan. If you need a skilled and reliable lawyer, I highly recommend him!",
+        "rating": 5,
+        "date": "10 months ago"
+      },
+      {
+        "initials": "GC",
+        "name": "Gladys C.",
+        "caseType": "Corporate Dispute",
+        "quote": "My family and I are very grateful to attorneys John Sherman and David Mannering, who quickly resolved our case, demonstrating their skill and expertise as combative lawyers against an aggressive company that used deceptive methods in its pursuit. They analyzed and investigated the case swiftly, tipping the scales of justice in our favor.",
+        "rating": 5,
+        "date": "10 months ago"
+      },
+      {
+        "initials": "DE",
+        "name": "Dianelis E.",
+        "caseType": "Legal Services",
+        "quote": "Very professional, very dedicated to the case, answered all my questions and very importantly speaks English and Spanish. Blessings to him and his team.",
+        "rating": 5,
+        "date": "7 months ago"
+      }
+    ]
+  },
+  "services": {
+    "title": "Areas of Practice",
+    "subtitle": "Focused legal representation where it matters most.",
+    "bookConsultation": "Book Consultation",
+    "items": [
+      {
+        "number": "01",
+        "title": "Family Law",
+        "description": "Comprehensive support for complex domestic relations. We prioritize your family's future stability while aggressively protecting your interests.",
+        "services": ["Divorce & Separation", "Child Custody", "Alimony & Support", "Prenuptial Agreements"],
+        "cta": "Schedule Case Review"
+      },
+      {
+        "number": "02",
+        "title": "Personal Injury",
+        "description": "When you are injured, insurance companies see a number. I see a person. I fight to recover the maximum compensation for your medical bills and suffering.",
+        "services": ["Auto Accidents", "Slip & Fall", "Medical Malpractice", "Wrongful Death"],
+        "cta": "Schedule Injury Consult"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Common questions about Florida Family Law and Injury Claims",
+    "items": [
+      {
+        "question": "Do I need an attorney for a divorce in Florida?",
+        "answer": "While Florida law does not strictly require an attorney, navigating the legal system alone can be risky, especially if assets or children are involved. A divorce agreement is a binding court order; undoing mistakes later is often impossible or extremely costly."
+      },
+      {
+        "question": "How much does a consultation cost?",
+        "answer": "I offer a free initial consultation for all personal injury cases. For family law matters, I offer a preliminary case evaluation to determine if we are the right fit for your situation before any retainers are discussed."
+      },
+      {
+        "question": "What should I do immediately after a car accident?",
+        "answer": "First, ensure your safety and seek medical attention immediately, even if you feel fine. Call the police to get a report. Document the scene with photos if possible. Crucially, do not sign anything or accept a settlement from an insurance company without speaking to an attorney first."
+      },
+      {
+        "question": "How is child custody determined in Florida?",
+        "answer": "Florida courts determine timesharing based on the \"best interests of the child.\" This involves evaluating roughly 20 statutory factors, including the mental and physical health of parents, the child's established routine, and the ability of each parent to facilitate a relationship with the other parent."
+      }
+    ]
+  },
+  "about": {
+    "badge": "25+ Years Experience",
+    "name": "John P. Sherman",
+    "title": "Attorney at Law",
+    "scheduleBtn": "Schedule Consultation",
+    "headline": {
+      "part1": "A lawyer who",
+      "part2": "listens,",
+      "part3": "understands,",
+      "part4": "and",
+      "part5": "fights for you."
+    },
+    "bio": {
+      "p1": "For over two decades, I've dedicated my practice to representing individuals and families facing life's most challenging legal battles. Whether you're navigating a complex divorce, fighting for custody of your children, or recovering from a serious injury, I bring the same level of dedication and strategic thinking to every case.",
+      "p2": "My approach is simple: I treat every client like family. That means being available when you need me, explaining the law in plain English, and never losing sight of what matters most to you.",
+      "p3": "Based in Miami, I serve clients throughout South Florida, bringing both courtroom experience and negotiation skills to achieve the best possible outcomes."
+    },
+    "stats": [
+      { "value": "25+", "label": "Years Experience" },
+      { "value": "1,200+", "label": "Cases Handled" },
+      { "value": "98%", "label": "Client Satisfaction" },
+      { "value": "$50M+", "label": "Recovered" }
+    ],
+    "educationTitle": "Education",
+    "education": [
+      { "school": "University of Miami School of Law", "degree": "Juris Doctor, 1998" },
+      { "school": "Florida State University", "degree": "B.A. Political Science, 1995" }
+    ],
+    "admissionsTitle": "Bar Admissions",
+    "admissions": [
+      { "court": "Florida State Bar", "year": "1998" },
+      { "court": "U.S. District Court, Southern District of Florida", "year": "1999" },
+      { "court": "U.S. Court of Appeals, 11th Circuit", "year": "2002" }
+    ],
+    "practiceAreasTitle": "Focus Areas",
+    "practiceAreas": [
+      "Divorce & Family Law",
+      "Personal Injury",
+      "Child Custody",
+      "Civil Litigation"
+    ]
+  },
+  "contact": {
+    "badge": "Free Case Evaluation",
+    "title": "Let's Discuss Your Case",
+    "subtitle": "Tell us about your situation. All communications are strictly confidential.",
+    "areaOfConcern": "Area of Concern",
+    "familyLawOption": "Family Law / Divorce",
+    "injuryOption": "Personal Injury / Accident",
+    "fullName": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "description": "Brief Description",
+    "disclaimer": "By submitting this form, you agree to our privacy policy. No attorney-client relationship is formed until a written agreement is signed.",
+    "submit": "Request Consultation"
+  }
+}

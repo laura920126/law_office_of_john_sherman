@@ -1,0 +1,168 @@
+{
+  "hero": {
+    "badge": "Consultas gratuitas",
+    "headline": "Soy John Sherman,",
+    "subheadline": "su Abogado de Derecho Familiar y Lesiones Personales.",
+    "description": "Navegar el sistema legal no debería aumentar su trauma. Proporciono orientación clara, empática y estratégica para ayudarle a proteger lo que más importa cuando la vida da un giro inesperado.",
+    "cta1": "Reserve una consulta gratis",
+    "cta2": "¿Somos el ajuste correcto?"
+  },
+  "painPoints": {
+    "title": "¿Somos el ajuste correcto?",
+    "subtitle": "No necesita jerga legal; necesita soluciones. Si está enfrentando alguna de estas situaciones, mi firma está diseñada para ayudarle.",
+    "items": [
+      {
+        "title": "¿Le entregaron documentos legales?",
+        "description": "Recibir documentos de divorcio o custodia es abrumador. Actuamos rápidamente para presentar las respuestas necesarias y proteger sus derechos inmediatamente."
+      },
+      {
+        "title": "Disputas de Custodia",
+        "description": "Cuando su tiempo con sus hijos está amenazado, construimos un caso convincente para asegurar un plan de crianza justo y estable."
+      },
+      {
+        "title": "Lesiones por Accidente",
+        "description": "¿Lesionado por negligencia? Manejamos las compañías de seguros para que pueda enfocarse en su recuperación, luchando por la máxima compensación."
+      },
+      {
+        "title": "Protección de Bienes",
+        "description": "Protegiendo sus bienes ganados con esfuerzo durante la división compleja de propiedad o la redacción de acuerdos prenupciales."
+      }
+    ]
+  },
+  "reviews": {
+    "title": "Historias de Éxito de Clientes",
+    "items": [
+      {
+        "initials": "MS",
+        "name": "Mike S.",
+        "caseType": "Desestimación de Orden de Restricción",
+        "quote": "El Sr. Sherman y el Sr. Pertierra me ayudaron a que desestimaran completamente una orden de restricción por violencia doméstica de 5 años en mi contra. A pesar de que las probabilidades estaban en mi contra, creyeron en mi caso, presentaron una moción de reconsideración, la ganaron, y luego volvieron a juzgar mi caso y lo desestimaron por completo. Estoy muy contento con sus servicios. No se decepcionará.",
+        "rating": 5,
+        "date": "hace 3 meses"
+      },
+      {
+        "initials": "DM",
+        "name": "Don M.",
+        "caseType": "Defensa contra Acusaciones Falsas",
+        "quote": "John Sherman es un abogado excepcional que realmente hace un esfuerzo adicional. Me mantuvo informado, trabajó incansablemente en mi caso, e incluso viajó de Miami a Clewiston, FL para defenderme contra acusaciones falsas. Su experiencia y dedicación llevaron a una victoria bien merecida. También hizo accesible la representación legal con un plan de pago flexible. Si necesita un abogado capacitado y confiable, ¡lo recomiendo ampliamente!",
+        "rating": 5,
+        "date": "hace 10 meses"
+      },
+      {
+        "initials": "GC",
+        "name": "Gladys C.",
+        "caseType": "Disputa Corporativa",
+        "quote": "Mi familia y yo estamos muy agradecidos con los abogados John Sherman y David Mannering, quienes resolvieron rápidamente nuestro caso, demostrando su habilidad y experiencia como abogados combativos contra una empresa agresiva que utilizó métodos engañosos en su persecución. Analizaron e investigaron el caso rápidamente, inclinando la balanza de la justicia a nuestro favor.",
+        "rating": 5,
+        "date": "hace 10 meses"
+      },
+      {
+        "initials": "DE",
+        "name": "Dianelis E.",
+        "caseType": "Servicios Legales",
+        "quote": "Muy profesional, muy dedicado al caso, respondió todas mis preguntas y muy importante habla inglés y español. Bendiciones para él y su equipo.",
+        "rating": 5,
+        "date": "hace 7 meses"
+      }
+    ]
+  },
+  "services": {
+    "title": "Áreas de Práctica",
+    "subtitle": "Representación legal enfocada donde más importa.",
+    "bookConsultation": "Reservar Consulta",
+    "items": [
+      {
+        "number": "01",
+        "title": "Derecho Familiar",
+        "description": "Apoyo integral para relaciones domésticas complejas. Priorizamos la estabilidad futura de su familia mientras protegemos agresivamente sus intereses.",
+        "services": ["Divorcio y Separación", "Custodia de Menores", "Pensión Alimenticia", "Acuerdos Prenupciales"],
+        "cta": "Programar Revisión de Caso"
+      },
+      {
+        "number": "02",
+        "title": "Lesiones Personales",
+        "description": "Cuando está lesionado, las compañías de seguros ven un número. Yo veo a una persona. Lucho para recuperar la máxima compensación por sus gastos médicos y sufrimiento.",
+        "services": ["Accidentes de Auto", "Caídas y Resbalones", "Negligencia Médica", "Muerte Injusta"],
+        "cta": "Programar Consulta de Lesiones"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Preguntas comunes sobre Derecho Familiar y Reclamos de Lesiones en Florida",
+    "items": [
+      {
+        "question": "¿Necesito un abogado para un divorcio en Florida?",
+        "answer": "Aunque la ley de Florida no requiere estrictamente un abogado, navegar el sistema legal solo puede ser arriesgado, especialmente si hay bienes o hijos involucrados. Un acuerdo de divorcio es una orden judicial vinculante; deshacer errores después es a menudo imposible o extremadamente costoso."
+      },
+      {
+        "question": "¿Cuánto cuesta una consulta?",
+        "answer": "Ofrezco una consulta inicial gratuita para todos los casos de lesiones personales. Para asuntos de derecho familiar, ofrezco una evaluación preliminar del caso para determinar si somos el ajuste correcto para su situación antes de discutir cualquier anticipo."
+      },
+      {
+        "question": "¿Qué debo hacer inmediatamente después de un accidente de auto?",
+        "answer": "Primero, asegure su seguridad y busque atención médica inmediatamente, incluso si se siente bien. Llame a la policía para obtener un informe. Documente la escena con fotos si es posible. Crucialmente, no firme nada ni acepte un acuerdo de una compañía de seguros sin hablar primero con un abogado."
+      },
+      {
+        "question": "¿Cómo se determina la custodia de menores en Florida?",
+        "answer": "Los tribunales de Florida determinan el tiempo compartido basándose en el \"mejor interés del niño\". Esto implica evaluar aproximadamente 20 factores estatutarios, incluyendo la salud mental y física de los padres, la rutina establecida del niño, y la capacidad de cada padre para facilitar una relación con el otro padre."
+      }
+    ]
+  },
+  "about": {
+    "badge": "25+ Años de Experiencia",
+    "name": "John P. Sherman",
+    "title": "Abogado",
+    "scheduleBtn": "Programar Consulta",
+    "headline": {
+      "part1": "Un abogado que",
+      "part2": "escucha,",
+      "part3": "entiende,",
+      "part4": "y",
+      "part5": "lucha por usted."
+    },
+    "bio": {
+      "p1": "Durante más de dos décadas, he dedicado mi práctica a representar a individuos y familias que enfrentan las batallas legales más desafiantes de la vida. Ya sea que esté navegando un divorcio complejo, luchando por la custodia de sus hijos, o recuperándose de una lesión grave, traigo el mismo nivel de dedicación y pensamiento estratégico a cada caso.",
+      "p2": "Mi enfoque es simple: trato a cada cliente como familia. Eso significa estar disponible cuando me necesita, explicar la ley en términos simples, y nunca perder de vista lo que más le importa.",
+      "p3": "Con sede en Miami, sirvo a clientes en todo el sur de Florida, aportando tanto experiencia en el tribunal como habilidades de negociación para lograr los mejores resultados posibles."
+    },
+    "stats": [
+      { "value": "25+", "label": "Años de Experiencia" },
+      { "value": "1,200+", "label": "Casos Manejados" },
+      { "value": "98%", "label": "Satisfacción del Cliente" },
+      { "value": "$50M+", "label": "Recuperados" }
+    ],
+    "educationTitle": "Educación",
+    "education": [
+      { "school": "Universidad de Miami, Facultad de Derecho", "degree": "Juris Doctor, 1998" },
+      { "school": "Universidad Estatal de Florida", "degree": "B.A. Ciencias Políticas, 1995" }
+    ],
+    "admissionsTitle": "Admisiones al Colegio de Abogados",
+    "admissions": [
+      { "court": "Colegio de Abogados de Florida", "year": "1998" },
+      { "court": "Tribunal de Distrito de EE.UU., Distrito Sur de Florida", "year": "1999" },
+      { "court": "Tribunal de Apelaciones de EE.UU., 11° Circuito", "year": "2002" }
+    ],
+    "practiceAreasTitle": "Áreas de Enfoque",
+    "practiceAreas": [
+      "Divorcio y Derecho Familiar",
+      "Lesiones Personales",
+      "Custodia de Menores",
+      "Litigio Civil"
+    ]
+  },
+  "contact": {
+    "badge": "Evaluación de Caso Gratis",
+    "title": "Hablemos de Su Caso",
+    "subtitle": "Cuéntenos sobre su situación. Todas las comunicaciones son estrictamente confidenciales.",
+    "areaOfConcern": "Área de Preocupación",
+    "familyLawOption": "Derecho Familiar / Divorcio",
+    "injuryOption": "Lesiones Personales / Accidente",
+    "fullName": "Nombre Completo",
+    "email": "Correo Electrónico",
+    "phone": "Número de Teléfono",
+    "description": "Breve Descripción",
+    "disclaimer": "Al enviar este formulario, acepta nuestra política de privacidad. No se forma ninguna relación abogado-cliente hasta que se firme un acuerdo escrito.",
+    "submit": "Solicitar Consulta"
+  }
+}
