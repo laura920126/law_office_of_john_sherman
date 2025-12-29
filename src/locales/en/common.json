@@ -14,9 +14,9 @@
     "personalInjury": "Personal Injury",
     "about": "About",
     "contact": "Contact",
-    "disclaimer": "Disclaimer",
+    "termsAndConditions": "Terms and Conditions",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "cookiesSettings": "Cookies Settings"
   },
   "social": {
     "facebook": "Facebook",
@@ -28,5 +28,12 @@
     "city": "Coral Gables, FL 33134",
     "email": "contact@shermanlaw.com",
     "copyright": "©2024 The Law Office of John P. Sherman, PLLC. All Rights Reserved."
+  },
+  "cookies": {
+    "title": "We Value Your Privacy",
+    "description": "We use cookies to enhance your browsing experience, analyze site traffic, and personalize content. By clicking \"Accept All\", you consent to our use of cookies.",
+    "learnMore": "Learn more",
+    "accept": "Accept All",
+    "reject": "Reject All"
   }
 }

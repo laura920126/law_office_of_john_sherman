@@ -1,6 +1,6 @@
 import { Routes, Route } from 'react-router-dom'
-import { Navbar, Footer } from './components'
-import { Home, AboutPage, FamilyLawPage, PersonalInjuryPage, ContactPage } from './pages'
+import { Navbar, Footer, CookieConsent } from './components'
+import { Home, AboutPage, FamilyLawPage, PersonalInjuryPage, ContactPage, TermsPage, PrivacyPage } from './pages'
 
 function App() {
   return (
@@ -15,8 +15,11 @@ function App() {
         <Route path="/family-law" element={<FamilyLawPage />} />
         <Route path="/personal-injury" element={<PersonalInjuryPage />} />
         <Route path="/contact" element={<ContactPage />} />
+        <Route path="/terms" element={<TermsPage />} />
+        <Route path="/privacy" element={<PrivacyPage />} />
       </Routes>
       <Footer />
+      <CookieConsent />
     </>
   )
 }

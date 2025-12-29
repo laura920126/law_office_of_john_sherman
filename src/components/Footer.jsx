@@ -1,4 +1,5 @@
 import { useTranslation } from 'react-i18next'
+import { Link } from 'react-router-dom'
 import logo from '../../Images/Logo.png'
 
 export default function Footer() {
@@ -36,9 +37,9 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto mt-20 text-[10px] text-zinc-700 flex flex-col md:flex-row justify-between uppercase tracking-widest gap-4">
         <span>{t('footer.copyright')}</span>
         <div className="flex gap-8">
-          <a href="#" className="hover:text-zinc-500">{t('links.disclaimer')}</a>
-          <a href="#" className="hover:text-zinc-500">{t('links.privacyPolicy')}</a>
-          <a href="#" className="hover:text-zinc-500">{t('links.termsOfService')}</a>
+          <Link to="/terms" className="hover:text-zinc-500">{t('links.termsAndConditions')}</Link>
+          <Link to="/privacy" className="hover:text-zinc-500">{t('links.privacyPolicy')}</Link>
+          <a href="#" className="hover:text-zinc-500">{t('links.cookiesSettings')}</a>
         </div>
       </div>
     </footer>

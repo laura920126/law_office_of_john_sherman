@@ -1,4 +1,5 @@
 import { useTranslation } from 'react-i18next'
+import { Link } from 'react-router-dom'
 import heroImage from '../../Images/John hero.png'
 
 export default function About() {
@@ -52,9 +53,9 @@ export default function About() {
                 </div>
               </div>
 
-              <a href="#contact" className="block w-full py-2.5 mt-4 bg-[#EBC870] text-black text-xs font-semibold text-center rounded-sm hover:bg-[#d4b35f] transition-colors">
+              <Link to="/contact" className="block w-full py-2.5 mt-4 bg-[#EBC870] text-black text-xs font-semibold text-center rounded-sm hover:bg-[#d4b35f] transition-colors">
                 {t('about.scheduleBtn')}
-              </a>
+              </Link>
             </div>
           </div>
 

@@ -1,4 +1,5 @@
 import { useEffect } from 'react'
+import { Link } from 'react-router-dom'
 import Reviews from '../components/Reviews'
 
 export default function FamilyLawPage() {
@@ -23,9 +24,9 @@ export default function FamilyLawPage() {
                 Divorce and custody disputes define your future. We approach every case with a strategy designed to secure your financial stability and your relationship with your children.
               </p>
             </div>
-            <a href="/#contact" className="hidden md:flex items-center gap-2 px-6 py-3 border border-white/10 rounded-sm text-white hover:bg-white hover:text-black transition-all duration-300">
+            <Link to="/contact" className="hidden md:flex items-center gap-2 px-6 py-3 border border-white/10 rounded-sm text-white hover:bg-white hover:text-black transition-all duration-300">
               <span className="text-xs uppercase tracking-widest font-medium">Request Case Review</span>
-            </a>
+            </Link>
           </div>
 
           {/* Detailed Grid */}
@@ -178,9 +179,9 @@ export default function FamilyLawPage() {
         <div className="max-w-4xl mx-auto bg-zinc-900/30 border border-white/[0.05] rounded-2xl p-12 md:p-16 text-center">
           <h3 className="text-2xl md:text-3xl text-white font-medium mb-4">Ready to discuss your family law matter?</h3>
           <p className="text-zinc-500 max-w-2xl mx-auto mb-8">Every family situation is unique. Schedule a confidential consultation to discuss your specific circumstances and legal options.</p>
-          <a href="/#contact" className="inline-flex items-center gap-2 px-8 py-4 bg-[#EBC870] text-black text-sm font-semibold rounded-sm hover:bg-[#d4b35f] transition-colors">
+          <Link to="/contact" className="inline-flex items-center gap-2 px-8 py-4 bg-[#EBC870] text-black text-sm font-semibold rounded-sm hover:bg-[#d4b35f] transition-colors">
             Schedule Free Consultation
-          </a>
+          </Link>
         </div>
       </section>
     </main>

@@ -58,14 +58,10 @@ export default function AboutPage() {
       {/* Section 2: Stats */}
       <section className="border-b border-white/[0.05] bg-[#080808]">
         <div className="max-w-7xl mx-auto px-6 py-16">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-8 md:gap-12">
+          <div className="grid grid-cols-3 gap-8 md:gap-12">
             <div className="space-y-2">
               <div className="text-3xl lg:text-4xl text-[#EBC870] font-medium tracking-tight">7+</div>
               <div className="text-xs text-zinc-500 font-medium uppercase tracking-widest">Years Experience</div>
-            </div>
-            <div className="space-y-2">
-              <div className="text-3xl lg:text-4xl text-[#EBC870] font-medium tracking-tight">$1M+</div>
-              <div className="text-xs text-zinc-500 font-medium uppercase tracking-widest">Top Settlement</div>
             </div>
             <div className="space-y-2">
               <div className="text-3xl lg:text-4xl text-[#EBC870] font-medium tracking-tight">100s</div>
@@ -209,9 +205,9 @@ export default function AboutPage() {
               <PhoneIcon />
               Call (786) 602-3672
             </a>
-            <a href="/#contact" className="px-8 py-4 bg-zinc-900 border border-white/10 hover:bg-zinc-800 text-white font-medium text-sm rounded-sm transition-colors">
+            <Link to="/contact" className="px-8 py-4 bg-zinc-900 border border-white/10 hover:bg-zinc-800 text-white font-medium text-sm rounded-sm transition-colors">
               Send a Message
-            </a>
+            </Link>
           </div>
         </div>
       </section>

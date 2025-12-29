@@ -1,4 +1,5 @@
 import { useTranslation } from 'react-i18next'
+import { Link } from 'react-router-dom'
 import { ArrowRight } from './icons'
 import heroImage from '../../Images/John hero.png'
 
@@ -28,10 +29,10 @@ export default function Hero() {
           </p>
 
           <div className="fade-in-up delay-300 flex flex-col sm:flex-row gap-4">
-            <a href="#contact" className="inline-flex items-center justify-center bg-[#EBC870] text-black px-8 py-4 rounded-sm hover:bg-[#d4b35f] transition-all group shadow-[0_0_20px_rgba(235,200,112,0.1)] hover:shadow-[0_0_30px_rgba(235,200,112,0.3)]">
+            <Link to="/contact" className="inline-flex items-center justify-center bg-[#EBC870] text-black px-8 py-4 rounded-sm hover:bg-[#d4b35f] transition-all group shadow-[0_0_20px_rgba(235,200,112,0.1)] hover:shadow-[0_0_30px_rgba(235,200,112,0.3)]">
               <span className="font-semibold text-sm tracking-wide">{t('hero.cta1')}</span>
               <ArrowRight className="ml-2 group-hover:translate-x-1 transition-transform" />
-            </a>
+            </Link>
             <a href="#pain-points" className="inline-flex items-center justify-center px-8 py-4 rounded-sm border border-zinc-800 text-zinc-300 hover:border-zinc-600 hover:text-white transition-all">
               <span className="font-medium text-sm tracking-wide">{t('hero.cta2')}</span>
             </a>

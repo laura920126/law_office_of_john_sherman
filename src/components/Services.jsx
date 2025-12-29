@@ -1,4 +1,5 @@
 import { useTranslation } from 'react-i18next'
+import { Link } from 'react-router-dom'
 import { ArrowRight, ChevronRight, UsersIcon, HandIcon } from './icons'
 
 const icons = [UsersIcon, HandIcon]
@@ -15,10 +16,10 @@ export default function Services() {
             <h2 className="text-4xl md:text-5xl font-medium tracking-tight mb-4">{t('services.title')}</h2>
             <p className="text-zinc-500 max-w-md">{t('services.subtitle')}</p>
           </div>
-          <a href="#contact" className="hidden md:flex items-center gap-2 text-[#EBC870] hover:text-white transition-colors mt-6 md:mt-0">
+          <Link to="/contact" className="hidden md:flex items-center gap-2 text-[#EBC870] hover:text-white transition-colors mt-6 md:mt-0">
             <span className="text-xs uppercase tracking-widest">{t('services.bookConsultation')}</span>
             <ArrowRight className="w-4 h-4" />
-          </a>
+          </Link>
         </div>
 
         {/* Sharp Grid Layout */}
@@ -47,9 +48,9 @@ export default function Services() {
                     ))}
                   </div>
 
-                  <a href="#contact" className="flex items-center gap-3 text-sm text-[#EBC870] font-medium group-hover:translate-x-2 transition-transform">
+                  <Link to="/contact" className="flex items-center gap-3 text-sm text-[#EBC870] font-medium group-hover:translate-x-2 transition-transform">
                     {service.cta} <ChevronRight />
-                  </a>
+                  </Link>
                 </div>
               </div>
             )
