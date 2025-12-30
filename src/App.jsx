@@ -1,6 +1,6 @@
 import { Routes, Route } from 'react-router-dom'
 import { Navbar, Footer, CookieConsent } from './components'
-import { Home, AboutPage, FamilyLawPage, PersonalInjuryPage, ContactPage, TermsPage, PrivacyPage } from './pages'
+import { Home, AboutPage, FamilyLawPage, PersonalInjuryPage, ContactPage, TermsPage, PrivacyPage, BlogPage, BlogPostPage } from './pages'
 
 function App() {
   return (
@@ -17,6 +17,8 @@ function App() {
         <Route path="/contact" element={<ContactPage />} />
         <Route path="/terms" element={<TermsPage />} />
         <Route path="/privacy" element={<PrivacyPage />} />
+        <Route path="/blog" element={<BlogPage />} />
+        <Route path="/blog/:slug" element={<BlogPostPage />} />
       </Routes>
       <Footer />
       <CookieConsent />

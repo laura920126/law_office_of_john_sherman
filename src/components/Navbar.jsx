@@ -19,6 +19,7 @@ export default function Navbar() {
           <Link to="/family-law" className="hover:text-white transition-colors">{t('links.familyLaw')}</Link>
           <Link to="/personal-injury" className="hover:text-white transition-colors">{t('links.personalInjury')}</Link>
           <Link to="/about" className="hover:text-white transition-colors">{t('links.about')}</Link>
+          <Link to="/blog" className="hover:text-white transition-colors">{t('links.blog')}</Link>
           <Link to="/contact" className="hover:text-white transition-colors">{t('links.contact')}</Link>
         </div>
 

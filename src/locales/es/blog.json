@@ -1,0 +1,32 @@
+{
+  "header": {
+    "label": "INFORMACIÓN LEGAL",
+    "title": "Nuestro Blog",
+    "subtitle": "Manténgase informado con las últimas noticias legales, consejos e información de nuestros abogados experimentados."
+  },
+  "categories": {
+    "all": "Todos los Artículos",
+    "familyLaw": "Derecho Familiar",
+    "personalInjury": "Lesiones Personales"
+  },
+  "readMore": "Leer Más",
+  "noArticles": "No se encontraron artículos en esta categoría.",
+  "cta": {
+    "title": "¿Tiene Preguntas Legales?",
+    "description": "Nuestro equipo está aquí para ayudar. Programe una consulta gratuita para discutir su caso.",
+    "button": "Consulta Gratis"
+  },
+  "breadcrumb": {
+    "home": "Inicio",
+    "blog": "Blog"
+  },
+  "article": {
+    "needHelp": "¿Necesita Asistencia Legal?",
+    "helpDescription": "Si tiene preguntas sobre su situación legal, nuestros abogados experimentados están aquí para ayudar. Contáctenos para una consulta gratuita y confidencial.",
+    "contactButton": "Programar Consulta Gratis"
+  },
+  "relatedPosts": {
+    "title": "Artículos Relacionados"
+  },
+  "backToBlog": "Volver a Todos los Artículos"
+}

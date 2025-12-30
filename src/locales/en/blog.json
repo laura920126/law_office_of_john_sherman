@@ -1,0 +1,32 @@
+{
+  "header": {
+    "label": "LEGAL INSIGHTS",
+    "title": "Our Blog",
+    "subtitle": "Stay informed with the latest legal news, tips, and insights from our experienced attorneys."
+  },
+  "categories": {
+    "all": "All Articles",
+    "familyLaw": "Family Law",
+    "personalInjury": "Personal Injury"
+  },
+  "readMore": "Read More",
+  "noArticles": "No articles found in this category.",
+  "cta": {
+    "title": "Have Legal Questions?",
+    "description": "Our team is here to help. Schedule a free consultation to discuss your case.",
+    "button": "Free Consultation"
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "blog": "Blog"
+  },
+  "article": {
+    "needHelp": "Need Legal Assistance?",
+    "helpDescription": "If you have questions about your legal situation, our experienced attorneys are here to help. Contact us for a free, confidential consultation.",
+    "contactButton": "Schedule Free Consultation"
+  },
+  "relatedPosts": {
+    "title": "Related Articles"
+  },
+  "backToBlog": "Back to All Articles"
+}

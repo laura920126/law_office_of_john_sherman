@@ -5,8 +5,10 @@ import LanguageDetector from 'i18next-browser-languagedetector'
 // Import translations
 import enCommon from './locales/en/common.json'
 import enHome from './locales/en/home.json'
+import enBlog from './locales/en/blog.json'
 import esCommon from './locales/es/common.json'
 import esHome from './locales/es/home.json'
+import esBlog from './locales/es/blog.json'
 
 i18n
   .use(LanguageDetector)
@@ -15,16 +17,18 @@ i18n
     resources: {
       en: {
         common: enCommon,
-        home: enHome
+        home: enHome,
+        blog: enBlog
       },
       es: {
         common: esCommon,
-        home: esHome
+        home: esHome,
+        blog: esBlog
       }
     },
     fallbackLng: 'en',
     defaultNS: 'common',
-    ns: ['common', 'home'],
+    ns: ['common', 'home', 'blog'],
     detection: {
       order: ['localStorage', 'navigator', 'htmlTag'],
       caches: ['localStorage'],
